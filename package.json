@@ -1,0 +1,24 @@
+{
+  "name": "firebase-auth-project",
+  "version": "1.0.0",
+  "description": "A simple Firebase authentication example with Email/Password login",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server public"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "firebase": "^9.23.0",
+    "firebase-admin": "^13.0.2",
+    "node-fetch": "^3.3.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
